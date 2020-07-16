@@ -3,6 +3,8 @@
 Using a i2C port expander (**MCP23008**) to add back local control of a 3-Speed Desk Fan and also, 3 LEDs for current speed indication.
 Basic wiring example: https://cdn-learn.adafruit.com/assets/assets/000/063/923/medium800/circuitpython_FeatherM0_MCP23008_LED_Button_bb.jpg
 
+UK Source for MCP23008, RS: https://uk.rs-online.com/web/p/i-o-expanders/0403563
+
 ESPHome: Info: https://esphome.io/components/mcp230xx.html
 
 Watch the Live Stream here: https://youtu.be/AIuAeBEvEG4
