@@ -19,7 +19,7 @@ esphome:
   board: esp01_1m
 
 wifi:
-  ssid: !secret ssid
+  ssid: !secret wifi_ssid
   password: !secret wifi_password
 
 substitutions:
