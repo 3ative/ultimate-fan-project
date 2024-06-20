@@ -28,6 +28,7 @@ substitutions:
 logger:
 api:
 ota:
+  platform: esphome
 
 mcp23008:
   - id: "mcp23008_hub"
